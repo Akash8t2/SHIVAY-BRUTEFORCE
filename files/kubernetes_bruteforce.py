@@ -36,7 +36,7 @@ def display_banner():
     """Displays the script banner with random color."""
     colors = [Fore.RED, Fore.GREEN, Fore.YELLOW, Fore.BLUE, Fore.MAGENTA, Fore.CYAN]
     banner_color = choice(colors)
-    banner = pyfiglet.figlet_format("Kraken Kubernetes Brute-Force", font="slant")
+    banner = pyfiglet.figlet_format("Shivay Kubernetes Brute-Force", font="slant")
     print(Style.BRIGHT + banner_color + banner)
     print(Style.RESET_ALL + Fore.WHITE + "="*80 + "\n")
 
