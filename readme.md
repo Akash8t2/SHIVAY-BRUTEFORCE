@@ -4,7 +4,7 @@
 ---
 
 ## About The Project
-<b>Kraken</b> is a powerful, Python-based tool designed to centralize and streamline various brute-forcing tasks. Kraken provides a suite of tools for cybersecurity professionals to efficiently perform brute-force attacks across a range of protocols and services.
+<b>SHIVAY-BRUTEFORCE</b> is a powerful, Python-based tool designed to centralize and streamline various brute-forcing tasks. SHIVAY-BRUTEFORCE provides a suite of tools for cybersecurity professionals to efficiently perform brute-force attacks across a range of protocols and services.
 
 ## ⚠️  WARNING: LEGAL DISCLAIMER
 
@@ -19,7 +19,7 @@ for their actions.
 
 ## ⚙️ Installation
 
-To install Kraken, follow these steps:
+To install SHIVAY-BRUTEFORCE, follow these steps:
 
 ```bash
 git clone https://github.com/Akash8t2/SHIVAY-BRUTEFORCE
@@ -74,7 +74,7 @@ SHIVAY-BRUTEFORCE offers a variety of tools for brute-forcing:
 ### Example:
 
 ```bash
-root@kraken:~# 1
+root@SHIVAY-BRUTEFORCE:~# 1
 ```
 This command would start the FTP Brute Force tool.
 
