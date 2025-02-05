@@ -34,7 +34,7 @@ def display_banner():
     """Displays the script banner with random color."""
     colors = [Fore.RED, Fore.GREEN, Fore.YELLOW, Fore.BLUE, Fore.MAGENTA, Fore.CYAN]
     banner_color = choice(colors)
-    print(Style.BRIGHT + banner_color + "Kraken Joomla Brute")
+    print(Style.BRIGHT + banner_color + "Shivay Joomla Brute")
     print(Style.RESET_ALL + Fore.WHITE + "="*80 + "\n")
 
 def validate_joomla(site):
