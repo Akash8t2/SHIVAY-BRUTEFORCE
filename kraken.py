@@ -42,7 +42,7 @@ def logo():
                                    
                                                                                                     
                     NOTE! : I'M NOT RESPONSIBLE FOR ANY ILLEGAL USAGE.
-                    CODED BY : JASON13
+                    CODED BY : SHIVAY 
                     VERSION : 1.0
     """
 
