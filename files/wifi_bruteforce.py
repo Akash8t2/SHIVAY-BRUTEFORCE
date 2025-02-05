@@ -12,7 +12,7 @@ log_dir = os.path.join('..', 'Logs')
 if not os.path.exists(log_dir):
     os.makedirs(log_dir)
 
-log_file = os.path.join(log_dir, "kraken_wifi_attack.log")
+log_file = os.path.join(log_dir, "shivaybruteforce_wifi_attack.log")
 logging.basicConfig(filename=log_file, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
@@ -35,7 +35,7 @@ def display_banner():
     """Displays the script banner with random color."""
     colors = [Fore.RED, Fore.GREEN, Fore.YELLOW, Fore.BLUE, Fore.MAGENTA, Fore.CYAN]
     banner_color = choice(colors)
-    banner = pyfiglet.figlet_format("Kraken WiFi Attack Tool")
+    banner = pyfiglet.figlet_format("SHIVAY-BRUTEFORCE WiFi Attack Tool")
     print(banner_color + banner)
 
 def prompt_user_input(prompt):
