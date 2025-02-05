@@ -12,7 +12,7 @@
    A Python-based tool to centralize and streamline BruteForce Attacks
 </p>
 
-![screenshot](https://i.imgur.com/aYTy4Ll.gif)
+
 
 ---
 
@@ -26,20 +26,7 @@ for their actions.
 
 ---
 
-## 👀 Screenshots
 
-<p float="left" align="middle">
-  <img src="https://i.imgur.com/wcgBbDU.png" width="49%" height="px">
-  <img src="https://i.imgur.com/Xa0KzvD.png" width="49%">
-</p>
-<p float="left" align="middle">
-  <img src="https://i.imgur.com/OvxKG1B.png" width="49%">
-  <img src="https://i.imgur.com/W1vEUrj.png" width="49%">
-</p>
-<p float="left" align="middle">
-  <img src="https://i.imgur.com/HoKXOBQ.png" width="49%">
-  <img src="https://i.imgur.com/Un0IgfB.png" width="49%">
-</p>
 
 ---
 
