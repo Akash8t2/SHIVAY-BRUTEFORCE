@@ -25,7 +25,7 @@ def display_banner():
     """Displays the script banner with random color."""
     colors = [Fore.RED, Fore.GREEN, Fore.YELLOW, Fore.BLUE, Fore.MAGENTA, Fore.CYAN]
     banner_color = choice(colors)
-    banner = pyfiglet.figlet_format("Kraken WooCommerce Brute-Force")
+    banner = pyfiglet.figlet_format("Shivay WooCommerce Brute-Force")
     print(banner_color + banner)
 
 def get_user_input():
