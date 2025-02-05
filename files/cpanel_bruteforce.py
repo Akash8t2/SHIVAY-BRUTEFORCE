@@ -31,7 +31,7 @@ def display_banner():
     """Displays the banner for the script."""
     colors = [Fore.RED, Fore.GREEN, Fore.YELLOW, Fore.BLUE, Fore.MAGENTA, Fore.CYAN]
     banner_color = choice(colors)
-    banner = pyfiglet.figlet_format("Kraken cPanel Brute-Force")
+    banner = pyfiglet.figlet_format("Shivay cPanel Brute-Force")
     print(Style.BRIGHT + banner_color + banner)
     print(Style.RESET_ALL + Fore.WHITE + "="*80 + "\n")
 
