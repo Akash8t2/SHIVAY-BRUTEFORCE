@@ -23,7 +23,7 @@ To install Kraken, follow these steps:
 
 ```bash
 git clone https://github.com/Akash8t2/SHIVAY-BRUTEFORCE
-cd Kraken
+cd SHIVAY-BRUTEFORCE
 pip install -r requirements.txt
 ```
 
