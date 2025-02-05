@@ -22,22 +22,22 @@ for their actions.
 To install Kraken, follow these steps:
 
 ```bash
-git clone https://github.com/jasonxtn/kraken.git
+git clone https://github.com/Akash8t2/SHIVAY-BRUTEFORCE
 cd Kraken
 pip install -r requirements.txt
 ```
 
-To launch Kraken:
+To launch SHIVAY-BRUTEFORCE:
 
 ```bash
-python kraken.py
+python shivaybruteforce.py
 ```
 
 ---
 
 ## 📖 Usage
 
-Kraken offers a variety of tools for brute-forcing:
+SHIVAY-BRUTEFORCE offers a variety of tools for brute-forcing:
 
 1. **Network Tools:**
    - FTP Brute Force
@@ -66,7 +66,7 @@ Kraken offers a variety of tools for brute-forcing:
 
 ### To use a specific tool:
 
-1. Launch Kraken from the command line.
+1. Launch SHIVAY-BRUTEFORCE from the command line.
 2. Select the desired tool from the main menu by typing its corresponding number.
 3. Follow the on-screen prompts to input the required information.
 4. Review the results provided by the tool.
@@ -82,6 +82,6 @@ This command would start the FTP Brute Force tool.
 
 ## ⭐️ Show Your Support
 
-If you find Kraken helpful or interesting, please consider giving us a star on GitHub. Your support helps promote the project and lets others know that it's worth checking out.
+If you find SHIVAY-BRUTEFORCE helpful or interesting, please consider giving us a star on GitHub. Your support helps promote the project and lets others know that it's worth checking out.
 
 Thank you for your support! 🌟
