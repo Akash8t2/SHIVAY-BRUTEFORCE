@@ -116,12 +116,12 @@ def main():
     }
 
     try:
-        kraken = input("root@kraken:~# ")
+        SHIVAY-BRUTEFORCE = input("root@SHIVAY-BRUTEFORCE:~# ")
         clearScr()
 
         if kraken in tools_mapping:
             if kraken == '00':
-                print('\033[97m\nClosing Kraken\nPlease Wait...\033[1;m')
+                print('\033[97m\nClosing SHIVAY-BRUTEFORCE\nPlease Wait...\033[1;m')
                 time.sleep(2)
                 sys.exit()
             else:
