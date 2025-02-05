@@ -119,13 +119,13 @@ def main():
         SHIVAY-BRUTEFORCE = input("root@SHIVAY-BRUTEFORCE:~# ")
         clearScr()
 
-        if kraken in tools_mapping:
-            if kraken == '00':
+        if SHIVAY-BRUTEFORCE in tools_mapping:
+            if SHIVAY-BRUTEFORCE == '00':
                 print('\033[97m\nClosing SHIVAY-BRUTEFORCE\nPlease Wait...\033[1;m')
                 time.sleep(2)
                 sys.exit()
             else:
-                execute_script(tools_mapping[kraken])
+                execute_script(tools_mapping[SHIVAY-BRUTEFORCE])
         else:
             print("Invalid Input!")
     except KeyboardInterrupt:
